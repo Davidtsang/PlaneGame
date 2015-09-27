@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  OKClock
+
+  Created by user on 14/12/31.
+  Copyright (c) 2014年  Studios. All rights reserved.
+*/
+"Miss!\n%@" = "未击中!\n%@";
+"You hit an plane's body!\n%@" = "你击中一架飞机的机体!\n%@";
+"You destroyed an airplane!\n%@" = "你消灭了一架飞机！\n%@";
+"WOW! I got %ld points of this game: %@ " ="WOW! 我在这个游戏上得了%ld分: %@";
+"%ld planes bombed you! you lost %ld point HP!" = "%ld架飞机轰炸了你! 你损失了%ld点HP!";
+"1. Each stage have three planes in the map.\n2. Find and destroy them all, you win.\n3. Each round, the remaining planes will attack you, each plane  will make you lose a 1 point HP.\n4. HP to 0, the game is over.\n5. The plane hit the head (red dots), this plane will lose the ability\n to attack you." ="1. 每一关地图中有三架飞机.\n2. 找到并把它们全部消灭, 赢得胜利.\n3. 每一回合, 剩余的飞机会攻击你, 每架飞机会造成你1点HP损失.\n4. HP为0, 游戏结束.\n5. 命中飞机头部 (红点), 这架飞机会失去攻击你的能力.";

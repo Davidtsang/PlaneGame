@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  PlaneGame
+
+  Created by user on 15/5/7.
+  Copyright (c) 2015年 Figapps Studios. All rights reserved.
+*/
+"CFBundleDisplayName" = "炸飞机";
+"CFBundleName" = "炸飞机: 一个源自中国校园的创新智力游戏";

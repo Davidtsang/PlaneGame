@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "SCORE: 0"; ObjectID = "3c2-Hw-duA"; */
+"3c2-Hw-duA.text" = "SCORE: 0";
+
+/* Class = "UILabel"; text = "Flash text"; ObjectID = "ATp-KG-msW"; */
+"ATp-KG-msW.text" = "Flash text";
+
+/* Class = "UILabel"; text = "HP: 99"; ObjectID = "D3f-Nu-T1l"; */
+"D3f-Nu-T1l.text" = "HP: 99";
+
+/* Class = "UILabel"; text = "BEST: 0"; ObjectID = "HnY-La-6ml"; */
+"HnY-La-6ml.text" = "BEST: 0";
+
+/* Class = "UILabel"; text = "How to play?"; ObjectID = "RnA-Oo-OYx"; */
+"RnA-Oo-OYx.text" = "How to play?";
+
+/* Class = "UITextView"; text = "1. 每一关地图中有三架飞机.\n2. 找到并把它们全部消灭, 赢得胜利.\n3. 每一回合, 剩余的飞机会攻击你, 每架飞机会造成你1点HP损失.\n4. HP为0, 游戏结束.\n5. 命中飞机头部 (红点), 这架飞机会失去攻击你的能力."; ObjectID = "aMH-qR-ycK"; */
+"aMH-qR-ycK.text" = "1. 每一关地图中有三架飞机.\n2. 找到并把它们全部消灭, 赢得胜利.\n3. 每一回合, 剩余的飞机会攻击你, 每架飞机会造成你1点HP损失.\n4. HP为0, 游戏结束.\n5. 命中飞机头部 (红点), 这架飞机会失去攻击你的能力.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "lj0-26-hWq"; */
+"lj0-26-hWq.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Level: 1-1"; ObjectID = "rUk-Of-5ES"; */
+"rUk-Of-5ES.text" = "Level: 1-1";
